@@ -17,7 +17,7 @@ An interactive Power BI dashboard that explores 32 years of Summer Olympic Games
 ### 1. Home: Olympic Executive Summary
 Headline figures, the growth of the Games over time, the gold/silver/bronze split, and a global map showing where medal-winning nations are located. Navigation buttons lead to the other four pages.
 
-![Home](screenshots/Home.png)
+![Home](Home.png)
 
 ### 2. National Dominance: The Olympic Titan Tracker
 Ranks the top 10 countries by total medals with a gold/silver/bronze breakdown, compares host-nation performance against their average, and tracks the medal trend of the three leading powers (United States, USSR/Russia, China). A year slicer lets you filter by Games edition.
