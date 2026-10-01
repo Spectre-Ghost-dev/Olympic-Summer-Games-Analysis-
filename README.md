@@ -46,3 +46,27 @@ Highlights the top 10 most decorated athletes, the top 5 nations across all spor
 - **DAX** for calculated measures such as total medals, female percentage
 - **Interactive features:** slicers, cross-filtering, page navigation buttons and tooltips
 
+
+
+
+
+
+## How to Open
+
+1. Download "Summer Olympic Medals Analysis (1976-2008).pbix" from this repository.
+2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free for Windows).
+3. Use the slicers and page navigation buttons to explore the data.
+
+## Data Source
+
+Olympic Games dataset by Divyansh Agrawal on [Kaggle](https://www.kaggle.com/datasets/DivyanshAgrawal/SummerOlympicsMedals(1976-2008)). The data covers the Summer Olympic Games from 1976 to 2008.
+
+
+## Author
+
+**Abubakar Mahfuz Eniola**
+
+Computer Science graduate, Kwara State University, Malete (KWASU), Nigeria
+[LinkedIn: www.linkedin.com/in/abubakar-mahfuz-eniola-751795369] 
+[Email: abubakarmahfuz30@gmail.com]
+
